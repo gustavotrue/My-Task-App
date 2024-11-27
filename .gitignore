@@ -1,0 +1,24 @@
+# Desconsiderar arquivos do sistema operacional
+/.DS_Store
+Thumbs.db
+
+# Desconsiderar arquivos de backup
+*.swp
+*~
+*.log
+
+# Desconsiderar arquivos gerados pela IDE
+.idea
+.vscode/
+
+# Desconsiderar arquivos de build
+/build
+/dist
+
+# Desconsiderar arquivos de cache
+npm-cache/
+yarn-cache/
+favicon/
+
+# Desconsiderar arquivos de configuração local
+.env
