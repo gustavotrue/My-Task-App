@@ -1,4 +1,4 @@
-# To-Do-List
+# MTA
 Um aplicativo simples de lista de tarefas para organizar seu dia.
 Funcionalidades:
 - Adicionar tarefas à lista.
